@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <element>
+    <classID>Apple</classID>
+    <ripe boolean="true">true</ripe>
+    <nutrition number="true">1</nutrition>
+    <dried boolean="true">true</dried>
+  </element>
+  <element>
+    <classID>Carrot</classID>
+    <ripe boolean="true">false</ripe>
+    <nutrition number="true">2</nutrition>
+    <pickled boolean="true">false</pickled>
+  </element>
+</root>

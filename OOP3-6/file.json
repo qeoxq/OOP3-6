@@ -1,0 +1,14 @@
+[
+  {
+    "classID": "Apple",
+    "ripe": true,
+    "nutrition": 1,
+    "dried": true
+  },
+  {
+    "classID": "Carrot",
+    "ripe": false,
+    "nutrition": 2,
+    "pickled": false
+  }
+]
